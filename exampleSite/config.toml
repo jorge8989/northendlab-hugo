@@ -1,5 +1,5 @@
 ############################ Default configuration #########################
-baseURL = "jorgelabs.com"
+baseURL = "http://jorgelabs.com"
 languageCode = "en-us"
 # site title
 title = "Jorge Labs"
