@@ -1,5 +1,5 @@
 ############################ Default configuration #########################
-baseURL = "https://jorgelabs-northen.netlify.com"
+baseURL = "jorgelabs.com"
 languageCode = "en-us"
 # site title
 title = "Jorge Labs"
