@@ -1,8 +1,8 @@
 ############################ Default configuration #########################
-baseURL = "https://examplesite.com/"
+baseURL = "https://jorgelabs-northen.netlify.com"
 languageCode = "en-us"
-# site title 
-title = "Northendlab | Blog Template"
+# site title
+title = "Jorge Labs"
 # theme
 theme = "northendlab-hugo"
 # post pagination
