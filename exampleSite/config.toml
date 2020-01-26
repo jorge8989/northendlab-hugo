@@ -1,5 +1,5 @@
 ############################ Default configuration #########################
-baseURL = "http://jorgelabs.com"
+baseURL = "https://jorgelabs.com"
 languageCode = "en-us"
 # site title
 title = "Jorge Labs"
@@ -92,18 +92,18 @@ enable = true
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-title = "Hi, I'm John Smith Doe. <br> I help people make the  worlds best software"
+title = "Hi, I'm Jorge Arteaga. <br> I help people make the  worlds best software"
 image = "images/banner/illustration.svg"
 
 
 ######################## call to action ###############################
 [params.cta]
-enable = true
+enable = false
 image = "images/hugo-muscot.svg"
 title = "Get the best hugo templates"
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
 [params.cta.button]
-enable = true
+enable = false
 label = "Visit Here"
 link = "https://gethugothemes.com/shop/"
 
