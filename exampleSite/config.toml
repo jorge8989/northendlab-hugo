@@ -44,10 +44,10 @@ URL = "contact"
 name = "Contact"
 weight = 1
 
-[[menu.main]]
-URL = "tools"
-name = "tools"
-weight = 2
+# [[menu.main]]
+# URL = "tools"
+# name = "tools"
+# weight = 2
 
 # footer menu
 [[menu.footer]]
@@ -55,10 +55,10 @@ URL = "contact"
 name = "Contact"
 weight = 1
 
-[[menu.footer]]
-URL = "tools"
-name = "tools"
-weight = 2
+# [[menu.footer]]
+# URL = "tools"
+# name = "tools"
+# weight = 2
 
 
 ######################### Default Parameters ###########################
@@ -86,7 +86,7 @@ preloader = "" # use png, jpg, svg or gif format
 
 # search
 [params.search]
-enable = true
+enable = false
 
 ####################### blog #########################################
 [params.blog]
