@@ -44,6 +44,11 @@ URL = "contact"
 name = "Contact"
 weight = 1
 
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 1
+
 # [[menu.main]]
 # URL = "tools"
 # name = "tools"
@@ -59,6 +64,11 @@ weight = 1
 # URL = "tools"
 # name = "tools"
 # weight = 2
+
+[[menu.footer]]
+URL = "about"
+name = "About"
+weight = 1
 
 
 ######################### Default Parameters ###########################
