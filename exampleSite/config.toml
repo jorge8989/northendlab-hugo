@@ -13,6 +13,10 @@ weight = 1
 URL = "about"
 name = "About"
 weight = 1
+[[menu.footer]]
+URL = "experience"
+name = "Experience"
+weight = 1
 [[menu.main]]
 URL = "contact"
 name = "Contact"
@@ -20,6 +24,10 @@ weight = 1
 [[menu.main]]
 URL = "about"
 name = "About"
+weight = 1
+[[menu.main]]
+URL = "experience"
+name = "Experience"
 weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
