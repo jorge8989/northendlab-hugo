@@ -2,11 +2,16 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: "/static/admin"
-webhook_url: 
+webhook_url:
 sections:
 - type: directory
   path: exampleSite/content/about
   label: About
+  create: all
+  match: "**/*"
+- type: directory
+  path: exampleSite/content/experience
+  label: Experience
   create: all
   match: "**/*"
 - type: directory
