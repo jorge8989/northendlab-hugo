@@ -22,3 +22,5 @@ When I was learning Ruby on Rails, years ago, I had a really hard time when I go
 After days (yes, days) of trying, and even personally asking about my problem to more experienced developers. I decided to sit down, and read the installation section of Paperclip's documentation. It turns out I skipped a step of Paperclip's installation. I had to install a small image processing software on my Windows machine which is dependency of Paperclip. Without it, the gem would never work. The error messages I had didn't mention this, but the documentation did!
 
 After this experience, whenever I'm learning a new technology, I never skip the documentation. In fact, most of the times, when I learn something new, I start with the documentation, and I watch youtube videos or online courses as a complement.
+
+### Don't use Windows
