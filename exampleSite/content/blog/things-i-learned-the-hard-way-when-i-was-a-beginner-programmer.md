@@ -24,3 +24,9 @@ After days (yes, days) of trying, and even personally asking about my problem to
 After this experience, whenever I'm learning a new technology, I never skip the documentation. In fact, most of the times, when I learn something new, I start with the documentation, and I watch youtube videos or online courses as a complement.
 
 ### Don't use Windows
+
+Don't get me wrong, you can build a successful programming career without ever touching a Unix based operating system.
+
+This really depends on the stack that you use. If you happen to work with technologies that run well on Windows, and your work doesn't require you to e.g. deploy apps to Linux based hosting services, and you are fine with it, good for you!
+
+I'm well aware that there are stacks that run without issues on Windows, and of course, some stacks are meant to be used on Windows.
