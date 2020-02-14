@@ -42,7 +42,7 @@ home = "Home"
 logo = "images/logo.svg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-image = "images/banner/illustration.svg"
+image = "images/profile_pic_desktop.png"
 title = "Hi, I'm Jorge Arteaga. <br> I'm a software developer with 4 years of experience."
 [params.blog]
 enable = false

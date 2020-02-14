@@ -3,7 +3,7 @@
 <section class="section">
   <div class="container">
     <div class="row justify-content-between">
-      <div class="col-lg-5">
+      <div class="col-lg-8 offset-lg-2">
         <h2 class="mb-4">{{ .Title | markdownify }}</h2>
         <div class="content">{{ .Content }}</div>
         <form name="contact" method="POST" data-netlify="true" class="row">
@@ -32,7 +32,7 @@
         <p>{{ .Params.replyNote }}</p>
       </div>
       <div class="col-lg-6 text-md-right">
-        <img class="img-fluid" src="{{ .Params.Image | relURL }}" alt="">
+        <!--<img class="img-fluid" src="{{ .Params.Image | relURL }}" alt="">-->
       </div>
     </div>
   </div>
