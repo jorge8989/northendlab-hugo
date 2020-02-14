@@ -26,3 +26,4 @@ fields:
   default: post
 pages:
 - exampleSite/content/blog/post-created-from-forestry.md
+- exampleSite/content/blog/things-i-learned-the-hard-way-when-i-was-a-beginner-programmer.md

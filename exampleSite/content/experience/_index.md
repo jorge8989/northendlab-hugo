@@ -22,8 +22,7 @@ June 2019 - October 2019 (4 months)
 
 **Position:** Full-stack web developer (freelance).
 
-Among other interesting tasks, I had to make integrations with the APIs of Twilio (for sending SMS notifications) and Mailgun,
-using functional programing.
+Among other interesting tasks, I had to make integrations with the APIs of Twilio (for sending SMS notifications) and Mailgun, using functional programming.
 
 **Skills used:** Elixir, Phoenix, Sass, Jquery, Ngnix, Linux.
 
