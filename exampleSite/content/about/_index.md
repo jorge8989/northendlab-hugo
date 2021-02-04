@@ -8,6 +8,6 @@ I am a full-stack web developer with more than 4 years of experience, specialize
 
 I enjoy improving my skills every day, working on interesting projects for awesome clients.
 
-Working as a remote freelancer I have delivered production-ready apps and made contributions to ongoing projects for companies located in Australia, USA and Germany.
+Working as a remote freelancer I have delivered production-ready apps and made contributions to ongoing projects for companies located in Australia, the USA, and Germany.
 
 Besides programming, I enjoy listening and playing music, making digital art, reading books and traveling whenever I can. 
