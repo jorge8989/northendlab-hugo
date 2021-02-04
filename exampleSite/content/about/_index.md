@@ -4,7 +4,7 @@ date: 2020-01-30T17:05:37-04:00
 draft: false
 ---
 
-I am a full-stack web developer with more than 4 years of experience, specialized in (but not limited to) Ruby on Rails and React.js
+I am a full-stack web developer with more 5 years of experience, specialized in (but not limited to) Ruby on Rails and React.js
 
 I enjoy improving my skills every day, working on interesting projects for awesome clients.
 
