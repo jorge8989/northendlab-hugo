@@ -2,15 +2,25 @@
 title: Experience
 
 ---
+#### BairesDev
+
+January 2021 - present
+
+**Position** Software Developer
+
+* I work on a learning management system.
+
+**Skills used:** Ruby on Rails, React.js, Docker, Jenkins, Gerrit.
+
 #### Paperdice Solutions GmbH
 
-March 2018 - Present (2+ years) (currently active)
+March 2018 - December 2020 (2 years. 8 months)
 
 **Position:** Full-stack web and mobile developer (freelance).
 
-* I work on a location-based mobile game
+* I worked on a location-based mobile game
   for iOS.
-* I maintain and improve software used in escape rooms, that I developed for Pfeffermind GmbH.
+* I maintained and improved software used in escape rooms, that I developed for Pfeffermind GmbH.
 
 **Skills used:**  Ruby on Rails, Node.js, Sass, Bootstrap, Jquery, React.js, React-Native, Vue.js, Electron.js, Firebase, Heroku, Google Maps, Postgresql, Nginx, Jenkins, Linux.
 
